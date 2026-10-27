@@ -1,0 +1,131 @@
+response_id,building,comfort_rating,indoor_temperature_c,hours_in_space
+R000,Tower C,,25.2,11
+R001,Tower A,Satisfied,24.9,3
+R002,Tower A,Neutral,25.3,11
+R003,Tower C,Neutral,27.0,9
+R004,Tower A,Very satisfied,25.8,6
+R005,Tower A,Satisfied,27.8,10
+R006,Tower B,Satisfied,29.0,12
+R007,Tower C,Satisfied,25.2,2
+R008,Tower B,Neutral,27.8,9
+R009,Tower C,Dissatisfied,25.3,4
+R010,Tower A,Neutral,23.7,10
+R011,Tower B,Neutral,23.7,7
+R012,Tower B,Dissatisfied,25.4,3
+R013,Tower B,Satisfied,22.6,4
+R014,Tower B,Very satisfied,26.9,12
+R015,Tower B,Satisfied,28.7,6
+R016,Tower A,Neutral,23.9,11
+R017,Tower A,Neutral,25.4,11
+R018,Tower B,Satisfied,28.8,3
+R019,Tower B,,26.6,4
+R020,Tower C,Satisfied,26.4,7
+R021,Tower A,Neutral,25.5,8
+R022,Tower C,Satisfied,27.8,6
+R023,Tower A,Dissatisfied,26.6,7
+R024,Tower A,Satisfied,24.0,10
+R025,Tower A,Very satisfied,21.6,5
+R026,Tower B,Neutral,21.2,10
+R027,Tower A,Satisfied,27.2,4
+R028,Tower C,Satisfied,25.5,10
+R029,Tower C,Very satisfied,28.6,6
+R030,Tower C,Satisfied,26.9,3
+R031,Tower B,Satisfied,23.7,1
+R032,Tower A,Satisfied,26.5,6
+R033,Tower A,Neutral,28.1,2
+R034,Tower B,Dissatisfied,24.4,12
+R035,Tower B,Very satisfied,25.1,10
+R036,Tower B,Satisfied,29.1,2
+R037,Tower B,Very satisfied,22.9,2
+R038,Tower B,,24.0,11
+R039,Tower B,Very dissatisfied,27.9,4
+R040,Tower A,Satisfied,26.4,10
+R041,Tower C,Satisfied,23.9,6
+R042,Tower B,Very satisfied,23.4,7
+R043,Tower A,Satisfied,26.8,10
+R044,Tower C,Dissatisfied,28.2,10
+R045,Tower B,Satisfied,27.5,9
+R046,Tower C,Neutral,26.7,6
+R047,Tower A,Neutral,28.7,6
+R048,Tower C,Very satisfied,26.6,4
+R049,Tower A,Satisfied,24.5,9
+R050,Tower B,Satisfied,29.7,11
+R051,Tower A,Satisfied,23.8,4
+R052,Tower B,Satisfied,25.8,3
+R053,Tower B,Satisfied,25.9,10
+R054,Tower C,Neutral,28.6,3
+R055,Tower B,Satisfied,24.6,1
+R056,Tower C,Very satisfied,25.5,12
+R057,Tower B,,22.8,4
+R058,Tower B,Dissatisfied,26.6,1
+R059,Tower B,Very dissatisfied,26.8,4
+R060,Tower A,Dissatisfied,27.2,4
+R061,Tower B,Satisfied,24.3,5
+R062,Tower B,Very dissatisfied,26.4,10
+R063,Tower A,Satisfied,24.4,2
+R064,Tower A,Satisfied,25.1,10
+R065,Tower A,Very satisfied,25.9,11
+R066,Tower C,Satisfied,28.3,6
+R067,Tower A,Satisfied,25.2,5
+R068,Tower C,Satisfied,26.3,12
+R069,Tower A,Satisfied,24.5,7
+R070,Tower A,Very dissatisfied,25.0,9
+R071,Tower B,Very dissatisfied,24.7,2
+R072,Tower C,Neutral,25.7,7
+R073,Tower B,Very satisfied,27.4,6
+R074,Tower C,Neutral,24.0,6
+R075,Tower C,Very satisfied,27.3,5
+R076,Tower B,,24.3,4
+R077,Tower C,Satisfied,26.6,1
+R078,Tower A,Neutral,25.0,2
+R079,Tower A,Very satisfied,25.4,7
+R080,Tower A,Satisfied,25.3,11
+R081,Tower C,Very satisfied,28.0,9
+R082,Tower A,Very satisfied,26.4,11
+R083,Tower C,Very satisfied,27.9,10
+R084,Tower B,Neutral,25.3,10
+R085,Tower C,Neutral,25.5,9
+R086,Tower C,Satisfied,28.9,12
+R087,Tower A,Satisfied,23.0,10
+R088,Tower A,Satisfied,24.4,9
+R089,Tower B,Dissatisfied,25.6,8
+R090,Tower B,Neutral,29.2,7
+R091,Tower B,Very satisfied,24.9,9
+R092,Tower A,Neutral,27.4,5
+R093,Tower C,Neutral,28.8,5
+R094,Tower B,Satisfied,25.5,12
+R095,Tower A,,25.6,6
+R096,Tower A,Dissatisfied,29.0,4
+R097,Tower B,Satisfied,25.0,5
+R098,Tower C,Satisfied,24.1,4
+R099,Tower A,Neutral,27.4,8
+R100,Tower A,Very satisfied,25.0,3
+R101,Tower B,Neutral,28.3,5
+R102,Tower C,Satisfied,26.9,4
+R103,Tower B,Satisfied,22.8,7
+R104,Tower B,Dissatisfied,26.5,11
+R105,Tower B,Dissatisfied,26.0,11
+R106,Tower B,Satisfied,24.8,2
+R107,Tower C,Dissatisfied,27.9,8
+R108,Tower C,Neutral,22.8,6
+R109,Tower A,Very satisfied,23.7,7
+R110,Tower C,Satisfied,25.1,2
+R111,Tower B,Very satisfied,27.4,6
+R112,Tower A,Very satisfied,23.2,6
+R113,Tower A,Satisfied,24.8,9
+R114,Tower C,,24.7,11
+R115,Tower B,Satisfied,23.2,9
+R116,Tower B,Neutral,25.2,5
+R117,Tower B,Dissatisfied,23.9,11
+R118,Tower B,Satisfied,25.1,1
+R119,Tower A,Satisfied,26.4,4
+R120,Tower B,Very satisfied,24.3,2
+R121,Tower A,Satisfied,24.4,6
+R122,Tower C,Satisfied,24.1,5
+R123,Tower A,Very satisfied,24.4,8
+R124,Tower C,Satisfied,23.1,2
+R125,Tower B,Very satisfied,23.8,10
+R126,Tower A,Satisfied,26.1,10
+R127,Tower B,Very satisfied,24.3,7
+R128,Tower B,Satisfied,31.8,4
+R129,Tower B,Satisfied,24.5,3
